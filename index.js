@@ -10,7 +10,7 @@ function loadTable() {
       for (let object of objects) {
         trHTML += '<tr>';
         trHTML += '<td>'+object['id']+'</td>';
-        trHTML += '<td>'+object['avatar']+'</td>';
+        trHTML += '<td><img width="50px" src="'+object['avatar']+'" class="avatar"></td>';
         trHTML += '<td>'+object['fname']+'</td>';
         trHTML += '<td>'+object['lname']+'</td>';
         trHTML += '<td>'+object['username']+'</td>';
@@ -24,3 +24,7 @@ function loadTable() {
 }
 
 loadTable();
+
+function showuserCreateBox() {
+  alert('hello');
+}
