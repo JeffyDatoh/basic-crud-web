@@ -1,5 +1,5 @@
 # basic-crud-web
-
+HTML, CSS, JavaScript, Bootstrap 5, Sweetalert  และ API ทำเว็บ CRUD
 ## Learn
 ใช้แค่ HTML, CSS, JavaScript และ API ทำเว็บ CRUD ข้อมูล | หมี ไลฟ์ โค้ด EP.05 โดย อ.พี่หมี
  - Youtube https://www.youtube.com/watch?v=GivytrqxQ3Q&list=PLtQbgLhfpaS-m4sbE3Z20l5Ov-EczbzuC&index=1&ab_channel=KarnYongsiriwit
